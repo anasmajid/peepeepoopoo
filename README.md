@@ -2,7 +2,9 @@
 
 Hardware components
 Arduino Uno
-Nano Jetson
+
+Nano Jetso
+
 MG 996R servo motor
 
 Arduino connected to servo motors, and nano jetson with built in camera
